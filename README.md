@@ -45,6 +45,6 @@ Library Management System (ASP.NET, C#)
 ![AddNewMember Page](screenshots/AddNewMember.png)
 
 <p align="center">
-  # Thanks for your attention!
+   <strong>Thanks for your attention!</strong>
 </p>
 
