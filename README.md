@@ -43,3 +43,5 @@ Library Management System (ASP.NET, C#)
 
 ### AddNewMember Page
 ![AddNewMember Page](screenshots/AddNewMember.png)
+
+#Thanks for your attention!
