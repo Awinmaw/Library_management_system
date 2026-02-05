@@ -18,28 +18,28 @@ Library Management System (ASP.NET, C#)
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/Login.png)
+![Login Page](screenshots/Login.png)
 
 ### Login Page
-![Login Page](screenshots/Dashboard.png)
+![Dashboard Page](screenshots/Dashboard.png)
 
 ### AddNewBook Page
-![Login Page](screenshots/AddNewBook.png)
+![AddNewBook Page](screenshots/AddNewBook.png)
 
 ### UpdateBook Page
-![Login Page](screenshots/UpdateBook.png)
+![UpdateBook Page](screenshots/UpdateBook.png)
 
 ### ViewBook Page
-![Login Page](screenshots/ViewBook.png)
+![ViewBook Page](screenshots/ViewBook.png)
 
 ### RentBook Page
-![Login Page](screenshots/RentBook.png)
+![RentBook Page](screenshots/RentBook.png)
 
 ### DamageBook Page
-![Login Page](screenshots/DamageBook.png)
+![DamageBook Page](screenshots/DamageBook.png)
 
 ### AddNewAdmin Page
-![Login Page](screenshots/AddNewAdmin.png)
+![AddNewAdmin Page](screenshots/AddNewAdmin.png)
 
 ### AddNewMember Page
-![Login Page](screenshots/AddNewMember.png)
+![AddNewMember Page](screenshots/AddNewMember.png)
