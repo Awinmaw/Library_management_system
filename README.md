@@ -18,7 +18,7 @@ Library Management System (ASP.NET, C#)
 ## Screenshots
 
 ### Home Page
-![Login Page](screenshots/Login.png)
+(screenshots/Login.png)
 
 ### Login Page
 ![Dashboard Page](screenshots/Dashboard.png)
@@ -35,8 +35,8 @@ Library Management System (ASP.NET, C#)
 ### RentBook Page
 ![RentBook Page](screenshots/RentBook.png)
 
-### DamageBook Page
-![DamageBook Page](screenshots/DamageBook.png)
+### DamagedBook Page
+![DamagedBook Page](screenshots/DamagedBook.png)
 
 ### AddNewAdmin Page
 ![AddNewAdmin Page](screenshots/AddNewAdmin.png)
