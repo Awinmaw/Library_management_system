@@ -17,10 +17,10 @@ Library Management System (ASP.NET, C#)
 
 ## Screenshots
 
-### Home Page
-(screenshots/Login.png)
-
 ### Login Page
+![Login Page](screenshots/Login.png)
+
+### Dashboard Page
 ![Dashboard Page](screenshots/Dashboard.png)
 
 ### AddNewBook Page
